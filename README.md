@@ -1,2 +1,1 @@
-# Power-BI/Excel_dashboard_-Project
-THIS IS POWER_BI end to end project.
+# Power-BI/Excel Data analysis,data cleaning and preparing dash boards step by step 
